@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI – Ultimate Student Edition",
+  "description": "Advanced futuristic AI desktop assistant for Windows inspired by Iron Man's JARVIS, designed for students to master technology, computer courses, science, math, and 3D modeling with real-time Hindi audio-to-audio conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
